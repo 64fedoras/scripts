@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 64fedoras
-# Modified: 2026-02-06
+# Modified: 2026-02-16
 # Expands LVM to use all free disk space, run after increasing  disk size in promox
 # Use:  ./extend_lvm
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 64fedoras
-# Modified: 2026-02-06
+# Modified: 2026-02-16
 # Sets a VM to be ready for use
 # Use:  ./new_install.sh old-hostname new-hostname
 

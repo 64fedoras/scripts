@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 64fedoras
-# Modified: 2023-12-20
+# Modified: 2026-02-16
 # Finds the old hostname in hostname and hosts files and replaces it with the new
 # Use:  ./change_hostname.sh old-hostname new-hostname
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 64fedoras
-# Modified: 2024-01-29
+# Modified: 2026-02-16
 # Installs Ubuntu desktop
 # Use:  ./install_desktop.sh
 
