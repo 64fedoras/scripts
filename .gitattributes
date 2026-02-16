@@ -28,6 +28,7 @@
 *.gitattributes linguist-detectable=true
 *.gitattributes linguist-documentation=false
 
+# Keep .sh files 
 *.sh      eol=lf
 *.sh      text
 *.sh      -text
