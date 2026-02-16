@@ -1,0 +1,6 @@
+# 64fedoras
+# Modified: 2026-02-16
+# Ignores files and directories listed below.
+
+*~
+.vscode
